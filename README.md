@@ -1,4 +1,4 @@
-# Phan-mem-quan-ly-khach-san
+# Phần mềm quản lý khách sạn
 
 GOALS
 
